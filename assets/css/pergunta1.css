@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+body{
+    font-family: 'DM Serif Display', serif;
+    color: white;
+}
+
+.imagens{
+    display: flex;
+    justify-content: center;
+   
+}
+.imagem1{
+    margin: 0px 20px 0px 0px;
+}
+.button{
+    display: flex;
+    justify-content:flex-end;
+}
+    
+.listas-de-nome{
+    display: flex;
+    justify-content: center;
+}
+.lista1{
+    margin: 0px 20px 0px 0px;
+}
+.pergunta{
+    display: flex;
+    justify-content: center;
+    
+}
+.BotaoResposta{
+    display:flex;
+    justify-content:center;
+}
+
+body{
+background-image: url(../images/fundo.jpg);
+}
